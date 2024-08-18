@@ -4,7 +4,11 @@
 
 ## 🖋️ 스터디 기록 및 회고
 
+1. [네트워크 거시적으로 살펴보기]()
 ---
+
+<img width="368" alt="bookInfo" src="https://github.com/user-attachments/assets/30f20200-ca17-4f12-9558-ba877d9ffc17">
+
 
 ## ❓스터티 목적
 
