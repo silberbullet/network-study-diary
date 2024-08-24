@@ -5,6 +5,7 @@
 ## 🖋️ 스터디 기록 및 회고
 
  - [1회차 네트워크 거시적으로 살펴보기](https://github.com/silberbullet/network-study-diary/blob/main/network_study/1_2_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_%EA%B1%B0%EC%8B%9C%EC%A0%81%EC%9C%BC%EB%A1%9C_%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0.md)
+ - [2회차 네트워크 미시적으로 살펴보기]()
 ---
 
 <img width="368" alt="bookInfo" src="https://github.com/user-attachments/assets/30f20200-ca17-4f12-9558-ba877d9ffc17">
