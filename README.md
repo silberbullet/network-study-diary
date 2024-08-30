@@ -7,7 +7,7 @@
  - [1회차 네트워크 거시적으로 살펴보기](https://github.com/silberbullet/network-study-diary/blob/main/network_study/1_2_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_%EA%B1%B0%EC%8B%9C%EC%A0%81%EC%9C%BC%EB%A1%9C_%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0.md)
  - [2회차 네트워크 미시적으로 살펴보기](https://github.com/silberbullet/network-study-diary/blob/main/network_study/1_3_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_%EB%AF%B8%EC%8B%9C%EC%A0%81%EC%9C%BC%EB%A1%9C_%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0.md)
  - [3회차 이더넷, NIC와 케이블](https://github.com/silberbullet/network-study-diary/blob/main/network_study/2_1%EA%B3%BC_2_%EC%9D%B4%EB%8D%94%EB%84%B7_NIC%EC%99%80%EC%BC%80%EC%9D%B4%EB%B8%94.md)
- - [4회차 허브, 스위치]()
+ - [4회차 허브, 스위치](https://github.com/silberbullet/network-study-diary/blob/main/network_study/2_3%EA%B3%BC_4_%ED%97%88%EB%B8%8C_%EC%8A%A4%EC%9C%84%EC%B9%98.md)
 ---
 
 <img width="368" alt="bookInfo" src="https://github.com/user-attachments/assets/30f20200-ca17-4f12-9558-ba877d9ffc17">
