@@ -9,7 +9,7 @@
  - [3회차 이더넷, NIC와 케이블](https://github.com/silberbullet/network-study-diary/blob/main/network_study/2_1%EA%B3%BC_2_%EC%9D%B4%EB%8D%94%EB%84%B7_NIC%EC%99%80%EC%BC%80%EC%9D%B4%EB%B8%94.md)
  - [4회차 허브, 스위치](https://github.com/silberbullet/network-study-diary/blob/main/network_study/2_3%EA%B3%BC_4_%ED%97%88%EB%B8%8C_%EC%8A%A4%EC%9C%84%EC%B9%98.md)
  - [5회차 LAN을 넘어서는 네트워크 계층](https://github.com/silberbullet/network-study-diary/blob/main/network_study/3_1_LAN%EC%9D%84_%EB%84%98%EC%96%B4%EC%84%9C%EB%8A%94_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_%EA%B3%84%EC%B8%B5.md)
- - [6회차 IP 주소]()
+ - [6회차 IP 주소](https://github.com/silberbullet/network-study-diary/blob/main/network_study/3_2_IP_%EC%A3%BC%EC%86%8C.md)
 ---
 
 <img width="368" alt="bookInfo" src="https://github.com/user-attachments/assets/30f20200-ca17-4f12-9558-ba877d9ffc17">
