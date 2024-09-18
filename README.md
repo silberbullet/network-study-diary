@@ -10,7 +10,7 @@
  - [4회차 허브, 스위치](https://github.com/silberbullet/network-study-diary/blob/main/network_study/2_3%EA%B3%BC_4_%ED%97%88%EB%B8%8C_%EC%8A%A4%EC%9C%84%EC%B9%98.md)
  - [5회차 LAN을 넘어서는 네트워크 계층](https://github.com/silberbullet/network-study-diary/blob/main/network_study/3_1_LAN%EC%9D%84_%EB%84%98%EC%96%B4%EC%84%9C%EB%8A%94_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_%EA%B3%84%EC%B8%B5.md)
  - [6회차 IP 주소](https://github.com/silberbullet/network-study-diary/blob/main/network_study/3_2_IP_%EC%A3%BC%EC%86%8C.md)
- - [7회차 라우팅]()
+ - [7회차 라우팅](https://github.com/silberbullet/network-study-diary/blob/main/network_study/3_3_%EB%9D%BC%EC%9A%B0%ED%8C%85.md)
  - [8회차 전송 계층 개요: IP의 한계와 포트]()
 ---
 
