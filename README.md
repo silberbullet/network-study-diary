@@ -12,6 +12,7 @@
  - [6회차 IP 주소](https://github.com/silberbullet/network-study-diary/blob/main/network_study/3_2_IP_%EC%A3%BC%EC%86%8C.md)
  - [7회차 라우팅](https://github.com/silberbullet/network-study-diary/blob/main/network_study/3_3_%EB%9D%BC%EC%9A%B0%ED%8C%85.md)
  - [8회차 전송 계층 개요: IP의 한계와 포트]()
+ - [9회차 TCP와 UDP]()
 ---
 
 <img width="368" alt="bookInfo" src="https://github.com/user-attachments/assets/30f20200-ca17-4f12-9558-ba877d9ffc17">
