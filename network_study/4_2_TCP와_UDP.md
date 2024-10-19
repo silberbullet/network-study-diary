@@ -14,7 +14,7 @@
 - **데이터 송수신** : 재전송을 통한 오류 제어, 흐름 제어, 혼잡 제어 등의 기능을 제공
 - **MSS** : TCP로 전송할 수 있는 최대 페이로드 크기 **( TCP 헤더의 크기는 제외 )**
 
-https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F18T43%2FbtrgBmg94PP%2FwXkcVUy9C0bwbXBj5HXLHk%2Fimg.png
+![image.png](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F18T43%2FbtrgBmg94PP%2FwXkcVUy9C0bwbXBj5HXLHk%2Fimg.png)
 
 - **IP MTU ( P.145 참고 )**
     - IP 패킷을 전송할 때 네트워크 계층에서 처리할 수 있는 가장 큰 데이터 블록
@@ -23,7 +23,7 @@ https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog
 
 **❗TCP 세그먼트 헤더 구조**
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f2636925-e81c-435b-900d-85ba6696597a/7f5b90a1-0e3f-46b3-ba72-4cf20de707ff/image.png)
+![image](https://github.com/user-attachments/assets/6f3cdd77-dcea-4d9b-b0e3-b03014cec030)
 
 - **송신지(출발지) 포트 , 수신지(목적지) 포트**
     - 송신지 또는 수신지의 애플리케이션을 식별하는 포트 번호
