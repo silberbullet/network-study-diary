@@ -13,7 +13,7 @@
  - [7회차 라우팅](https://github.com/silberbullet/network-study-diary/blob/main/network_study/3_3_%EB%9D%BC%EC%9A%B0%ED%8C%85.md)
  - [8회차 전송 계층 개요: IP의 한계와 포트](https://github.com/silberbullet/network-study-diary/blob/main/network_study/4_1_%EC%A0%84%EC%86%A1%EA%B3%84%EC%B8%B5%EA%B0%9C%EC%9A%94:IP%EC%9D%98_%ED%95%9C%EA%B3%84%EC%99%80_%ED%8F%AC%ED%8A%B8.md)
  - [9회차 TCP와 UDP](https://github.com/silberbullet/network-study-diary/blob/main/network_study/4_2_TCP%EC%99%80_UDP.md)
- - [마지막 회차 와이어샤크 분석]()
+ - [마지막 회차 와이어샤크 분석](https://github.com/silberbullet/network-study-diary/blob/main/network_study/%EC%99%80%EC%9D%B4%EC%96%B4%EC%83%A4%ED%81%AC_%EC%8B%A4%EC%8A%B5_%EB%B0%8F_%EB%B6%84%EC%84%9D.md)
 ---
 
 <img width="368" alt="bookInfo" src="https://github.com/user-attachments/assets/30f20200-ca17-4f12-9558-ba877d9ffc17">
